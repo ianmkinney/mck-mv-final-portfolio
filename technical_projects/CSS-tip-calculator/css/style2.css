@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+
+* {
+      
+    font-family: 'Space Mono',monospace;
+
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.try {
+    background: url(./images/icon-person.svg);
+    background-repeat: no-repeat;
+    background-position-x: 0.5em;
+    background-position-y: 0.5em;
+}
+
+.aye {
+    background: url(./images/icon-dollar.svg);
+    background-repeat: no-repeat;
+    background-position-x: 0.5em;
+    background-position-y: 0.5em;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin:0;
+}
+input[type=number]{
+    outline: none;
+    -moz-appearance: textfield;
+    background-color: #f4fafa;
+}
+  
+.err{
+    display:none;
+    color:rgba(255, 0, 0, 0.582);
+
+}
+.activee{
+    color:hsl(183, 100%, 15%);
+    background:hsl(172, 67%, 45%);
+}
+.pl{
+    color:hsl(183, 100%, 15%);
+    background:hsl(185, 41%, 84%);
+}

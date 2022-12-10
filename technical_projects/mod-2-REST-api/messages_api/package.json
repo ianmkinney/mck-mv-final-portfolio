@@ -1,0 +1,29 @@
+{
+  "name": "trading_cards",
+  "version": "1.0.0",
+  "description": "//npm init",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmkinney/trading_cards.git"
+  },
+  "author": "Ian Kinney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianmkinney/trading_cards/issues"
+  },
+  "homepage": "https://github.com/ianmkinney/trading_cards#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jest": "^27.2.5",
+    "nodemon": "^2.0.13",
+    "path": "^0.12.7",
+    "sequelize": "^6.7.0",
+    "sqlite3": "^5.0.2"
+  }
+}

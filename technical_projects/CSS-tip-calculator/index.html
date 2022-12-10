@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./resources/favicon-32x32.png">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/style2.css">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+
+  <title>Frontend Mentor | Tip calculator app</title>
+
+  
+</head>
+
+<body class=" box-border bg-[#c5e4e7]">
+  <div class="container mx-auto">
+    <header id="main-header" class="mx-auto pt-16 pb-12 md:pt-20 md:pb-16">
+      <div class="flex justify-center"><img src="./resources/logo.svg" alt="logo" class=""></div>
+    </header>
+    <main id="main-section" class="md:flex md:justify-center md:items-center md:mt-7">
+      <div class="container rounded-t-xl md:grid md:grid-cols-2 md:px-auto md:w-[700px] md:py-5 md:rounded-lg bg-white pb-6">
+        <div>
+          <div class="px-5 pt-5 md:pt-0">
+            <label for="billNum" class="py-1 pt-5 md:pt-0 text-[#4f6669] font-bold">Bill</label>
+            <div class=" ">
+              <input type="number" name="" id="billNum" 
+                class="px-3 py-1 text-right rounded-md w-full aye pl-6 font-bold text-2xl md:py-[3px] md:text-xl bg-[#f4fafa] text-[#00494d] placeholder-[#4f6669]"
+                placeholder="0">
+            </div>
+
+          </div>
+          <div class="px-5 pt-7 pb-7 md:pb-5 md:pt-5 ">
+            <h3 class=" py-2 text-[#4f6669] font-bold">Select Tip %</h3>
+            <div class="grid grid-cols-2 grid-rows-3 gap-4 md:grid-cols-3 md:grid-rows-2 md:gap-3 ">
+
+              <button class="px-3 py-2 text-center rounded-md font-bold text-2xl md:py-1 md:text-xl tips bg-[#00494d] text-[#f4fafa] hover:bg-[#c5e4e7] hover:text-[#00494d] active:bg-[#26c0ab] active:text-[#00494d]">5%</button>
+              <button class="px-3 py-2 text-center rounded-md font-bold text-2xl md:py-1 md:text-xl tips bg-[#00494d] text-[#f4fafa] hover:bg-[#c5e4e7] hover:text-[#00494d] active:bg-[#26c0ab] active:text-[#00494d]">10%</button>
+              <button class="px-3 py-2 text-center rounded-md font-bold text-2xl md:py-1 md:text-xl tips bg-[#00494d] text-[#f4fafa] hover:bg-[#c5e4e7] hover:text-[#00494d] active:bg-[#26c0ab] active:text-[#00494d]">15%</button>
+              <button class="px-3 py-2 text-center rounded-md font-bold text-2xl md:py-1 md:text-xl tips bg-[#00494d] text-[#f4fafa] hover:bg-[#c5e4e7] hover:text-[#00494d] active:bg-[#26c0ab] active:text-[#00494d]">25%</button>
+              <button class="px-3 py-2 text-center rounded-md font-bold text-2xl md:py-1 md:text-xl tips bg-[#00494d] text-[#f4fafa] hover:bg-[#c5e4e7] hover:text-[#00494d] active:bg-[#26c0ab] active:text-[#00494d]">50%</button>
+              <input type="number" name="custom" id="customise"
+                class="px-3 py-2 text-center rounded-md font-bold text-2xl text-right md:text-xl md:px-2 md:py-1 md:text-xl bg-[#f4fafa] text-[#4f6669] placeholder-[#4f6669]"
+                placeholder="Custom">
+            </div>
+          </div>
+          <div class="px-5 md:mb-3">
+            <label for="peopleNum" class="py-2 md:py-1 flex justify-between text-[#4f6669] font-bold">Number of People <span class="px-3 err">can't be zero</span></label>
+
+
+            <input type="number" name="" id="peopleNum" value=""
+              class="px-3 py-1 text-right rounded-md w-full try pl-6 font-bold text-2xl md:py-[3px] md:text-xl    bg-[#f4fafa]  text-[#00494d] placeholder-[#4f6669]"
+              placeholder="1">
+          </div>
+        </div>
+        <div class="grid grid-cols-2 grid-rows-3 mx-5 mt-8 md:mt-0 px-5 pb-2 pt-11 gap-y-7 md:pt-9 bg-[#00494d] rounded-xl">
+          <div class="">
+            <label for="tipAmnt" class="font-bold text-[#f4fafa] ">Tip Amount</label>
+            <p class="text-sm text-[#5e7a7d] ">/ person</p>
+          </div>
+          <div class=" flex justify-end md:px-[3px] py-2 md:h-11 md:py-1">
+            
+            <span class="px-3 font-bold text-3xl md:px-[3px] i text-[#26c0ab]" id="tipAmnt">$0.00</span>
+
+          </div>
+          <div class="md:-mt-5">
+            <label for="totalAmnt" class="font-bold text-[#f4fafa]">Total</h3>
+            <p class="text-sm text-[#5e7a7d]">/ person</p>
+          </div>
+          <div class=" flex justify-end md:px-[3px] py-2  md:h-11 md:-mt-5 md:py-1">
+            <span class="px-3 md:px-[3px] font-bold text-3xl text-[#26c0ab]" id="totalAmnt" >$0.00</span>
+          </div>
+
+          <div class="col-span-2 h-10 md:self-center ">
+            <button type="reset" class="w-full h-full rounded-lg tracking-wide font-bold bg-[#006766] text-[#00494d] active:bg-[#26c0ab] reset">RESET</button>
+          </div>
+
+        </div>
+
+
+      </div>
+    </main>
+  </div>
+
+
+
+
+  <script src="./script.js"></script>
+  
+
+
+
+  <!--<div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Rich</a>.
+  </div>-->
+</body>
+
+</html>
