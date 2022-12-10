@@ -9,10 +9,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
   <p align="center">
-    Durable Skills Demonstrated at McKinsey & Co. 2021-2022
+    On the job examples of ways I have contributed to the software development process at 
+    McKinsey & Co and what I learned during these experiences.
   </p>
 </div>
 
@@ -22,21 +23,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#overview">Overview</a></li>
-    <li><a href="#tech">Learned Technologies</a></li>
+    <li><a href="#technology">Learned Technologies</a></li>
     <li><a href="#explorers">Explorers Team Contribution (November 2021 - February 2022)</a></li>
     <li><a href="#servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</a></li>
     <li><a href="#ebfTeam">Engagement Feedback Team (April 2022 - Current Date)</a></li>
@@ -47,16 +35,16 @@
 
 
 <!-- Overview -->
-## Overview
+<h3 align="center" name="overview">Overview</h3>
 
 During my time at McKinsey & Coompany, I deilvered value through improvements and added funcitonality in existing McKinsey codebases. This document is a broad overview of my contributions to the firm's services without revealing any propietary information. 
 
 Because of the sensitive nature of the Firm's codebases and the restrictions placed on us being Firm members, I will avoid using any code snippets and rely just 
 
-<p align="right">(<a href="#overview">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Tech Learned Section -->
-### Technologies Used
+<h3 align="center" name="technology">Technology Learned</h3>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -67,6 +55,26 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Explorers Team Section -->
+<h3 align="center" name="explorers">Explorers Team Contribution (November 2021 - February 2022)</h3>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Service Now Section -->
+<h3 align="center" name="servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</h3>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Engagement Feedback Section -->
+<h3 align="center" name="ebfTeam">Engagement Feedback Team (April 2022 - Current Date)</h3>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -83,7 +91,7 @@ Project Link: [https://github.com/ianmkinney/mck-mv-final-portfolio/durable_proj
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Here are the resources used to create this README!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -96,7 +104,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+Special thanks to Multiverse for this oppurtunity, and of course to my coach, Linda, for her continued support in my new career. Forever grateful!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
