@@ -4,11 +4,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
   <p align="center">
@@ -41,7 +36,7 @@ During my time at McKinsey & Coompany, I deilvered value through improvements an
 
 Because of the sensitive nature of the Firm's codebases and the restrictions placed on us being Firm members, I will avoid using any code snippets and rely just 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Tech Learned Section -->
 <h3 align="center" name="technology">Technology Learned</h3>
@@ -61,28 +56,28 @@ I learned from senior developers and the Firm's learning resources, but also fro
 <!-- Explorers Team Section -->
 <h3 align="center" name="explorers">Explorers Team Contribution (November 2021 - February 2022)</h3>
 
-<p align="center">(<a href="#readme-top">My first assignment at The Firm was the Explorers team. We utilized React, and spring for our architecture.
-I even was given the ability to dive in to some Machine Learning testing that was very informative. </a>)</p>
+<p align="left">My first assignment at The Firm was the Explorers team. We utilized React, and spring for our architecture.
+I even was given the ability to dive in to some Machine Learning testing that was very informative.</p>
 
-<p align="center">(<a href="#readme-top">My individual contributions included a randomization feature to reduce screen placement bias,and also major front-end changes and a custom component that was added to our shared code repository for the firm. These contributions show that 
-even at the beginning of my time at the firm, I was determined to provide vaule in some way shape or form that could be reused by others </a>)</p>
+<p align="left">My individual contributions included a randomization feature to reduce screen placement bias,and also major front-end changes and a custom component that was added to our shared code repository for the firm. These contributions show that 
+even at the beginning of my time at the firm, I was determined to provide vaule in some way shape or form that could be reused by others</p>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Service Now Section -->
-<h3 align="center" name="servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</h3>
+<h3 align="left" name="servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</h3>
 
-<p align="center">My second assignment was a spike for the firm to research Service Now as a possible solution for a management application. I was thrilled to be given the oppurtunity to learn new technology dove right in to trying design a prototype. I was faced with some personal health issues and had a big pause in my participation in this spike, but my team came to the conclusion the service now should not be used for the application, and Microsoft SharePoint was a better option for firm compatability reasons.</p>
+<p align="left">My second assignment was a spike for the firm to research Service Now as a possible solution for a management application. I was thrilled to be given the oppurtunity to learn new technology dove right in to trying design a prototype. I was faced with some personal health issues and had a big pause in my participation in this spike, but my team came to the conclusion the service now should not be used for the application, and Microsoft SharePoint was a better option for firm compatability reasons.</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Engagement Feedback Section -->
 <h3 align="center" name="ebfTeam">Engagement Feedback Team (April 2022 - Current Date)</h3>
 
-<p align="center">My current assignment has been the Engagemnt Feeback Team. We provide an application to firm members to help them better themselves every review cycle.
+<p align="left">My current assignment has been the Engagemnt Feeback Team. We provide an application to firm members to help them better themselves every review cycle.
 Our architecture is Firm Standard, allowing me to learn a lot of best coding practices used on the team and at The Firm in general. </p>
 
-<p align="center">My individual contributions included a major updates to our front-end survey, notifications through email, and providing support whenever it is my turn to be support pair or lead standups or retros when I am in rotation. I have found myself adapting extremely fast to the Agile workflow and I hope to continue working on this team this coming year!</p>
+<p align="left">My individual contributions included a major updates to our front-end survey, notifications through email, and providing support whenever it is my turn to be support pair or lead standups or retros when I am in rotation. I have found myself adapting extremely fast to the Agile workflow and I hope to continue working on this team this coming year!</p>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +89,7 @@ Ian Kinney - ikinney51@gmail.com
 
 Project Link: [https://github.com/ianmkinney/mck-mv-final-portfolio/durable_projects](https://github.com/ianmkinney/repo_name)
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
 
 
