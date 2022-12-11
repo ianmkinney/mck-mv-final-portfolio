@@ -1,13 +1,4 @@
 <a name="readme-top"></a>
-<!--
-*** Generated From Best-README-Template: See: https://github.com/othneildrew/Best-README-Template/pull/73 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Multiverse Final Portfolio</h3>
 
@@ -43,17 +34,15 @@ Because of the sensitive nature of the Firm's codebases and the restrictions pla
 <!-- Durable Skills Section -->
 ### Durable Skills
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+The durable skills contains a README file that outlines my contributions to the firm during my apprenticeship. I have outlined my different positions I have taken on while working at The Firm at gave some insight into the skills I learned while on these assignments.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Technical Projects Section -->
 ### Technical Projects
+
+My technical projects section contains two folders, one for my multiverse projects, and one for me personal projects. Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year!
 
 
 <p align="right">(<a href="#technical">back to top</a>)</p>
