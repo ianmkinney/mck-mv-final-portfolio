@@ -24,7 +24,7 @@
 
 During my time at McKinsey & Coompany, I deilvered value through improvements and added funcitonality in existing McKinsey codebases. This document is a broad overview of my contributions to the firm's services without revealing any propietary information. 
 
-Because of the sensitive nature of the Firm's codebases and the restrictions placed on us being Firm members, I will avoid using any code snippets and rely just 
+Because of the sensitive nature of the Firm's codebases and the restrictions placed on us being Firm members, I will avoid using any code snippets and rely just on explanation.
 
 
 
