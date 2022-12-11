@@ -52,29 +52,39 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
+<p align="center">(<a href="#readme-top">During my time with the Firm, I leaned many skills and even earned certifications. My main focus was React.js and java spring api.
+I learned from senior developers and the Firm's learning resources, but also from multiverse's bootcamps. </a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Explorers Team Section -->
 <h3 align="center" name="explorers">Explorers Team Contribution (November 2021 - February 2022)</h3>
 
+<p align="center">(<a href="#readme-top">My first assignment at The Firm was the Explorers team. We utilized React, and spring for our architecture.
+I even was given the ability to dive in to some Machine Learning testing that was very informative. </a>)</p>
 
+<p align="center">(<a href="#readme-top">My individual contributions included a randomization feature to reduce screen placement bias,and also major front-end changes and a custom component that was added to our shared code repository for the firm. These contributions show that 
+even at the beginning of my time at the firm, I was determined to provide vaule in some way shape or form that could be reused by others </a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Service Now Section -->
 <h3 align="center" name="servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</h3>
 
-
+<p align="center">My second assignment was a spike for the firm to research Service Now as a possible solution for a management application. I was thrilled to be given the oppurtunity to learn new technology dove right in to trying design a prototype. I was faced with some personal health issues and had a big pause in my participation in this spike, but my team came to the conclusion the service now should not be used for the application, and Microsoft SharePoint was a better option for firm compatability reasons.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Engagement Feedback Section -->
 <h3 align="center" name="ebfTeam">Engagement Feedback Team (April 2022 - Current Date)</h3>
 
+<p align="center">My current assignment has been the Engagemnt Feeback Team. We provide an application to firm members to help them better themselves every review cycle.
+Our architecture is Firm Standard, allowing me to learn a lot of best coding practices used on the team and at The Firm in general. </p>
 
+<p align="center">My individual contributions included a major updates to our front-end survey, notifications through email, and providing support whenever it is my turn to be support pair or lead standups or retros when I am in rotation. I have found myself adapting extremely fast to the Agile workflow and I hope to continue working on this team this coming year!</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -84,7 +94,7 @@ Ian Kinney - ikinney51@gmail.com
 
 Project Link: [https://github.com/ianmkinney/mck-mv-final-portfolio/durable_projects](https://github.com/ianmkinney/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -102,7 +112,7 @@ Here are the resources used to create this README!
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 Special thanks to Multiverse for this oppurtunity, and of course to my coach, Linda, for her continued support in my new career. Forever grateful!
 
