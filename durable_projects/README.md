@@ -1,17 +1,7 @@
 <a name="readme-top"></a>
-<!--
-*** Generated From Best-README-Template: See: https://github.com/othneildrew/Best-README-Template/pull/73 
 
-<!-- PROJECT LOGO -->
-<br />
-  <h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
-  <p align="center">
-    On the job examples of ways I have contributed to the software development process at 
-    McKinsey & Co and what I learned during these experiences.
-  </p>
-</div>
-
+<h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -36,7 +26,7 @@ During my time at McKinsey & Coompany, I deilvered value through improvements an
 
 Because of the sensitive nature of the Firm's codebases and the restrictions placed on us being Firm members, I will avoid using any code snippets and rely just 
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Tech Learned Section -->
 <h3 align="center" name="technology">Technology Learned</h3>
@@ -45,10 +35,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* 
 
-<p align="center">(<a href="#readme-top">During my time with the Firm, I leaned many skills and even earned certifications. My main focus was React.js and java spring api.
-I learned from senior developers and the Firm's learning resources, but also from multiverse's bootcamps. </a>)</p>
+<p align="center">During my time with the Firm, I leaned many skills and even earned certifications. My main focus was React.js and java spring api.
+I learned from senior developers and the Firm's learning resources, but also from multiverse's bootcamps.</p>
 
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
@@ -62,14 +52,14 @@ I even was given the ability to dive in to some Machine Learning testing that wa
 <p align="left">My individual contributions included a randomization feature to reduce screen placement bias,and also major front-end changes and a custom component that was added to our shared code repository for the firm. These contributions show that 
 even at the beginning of my time at the firm, I was determined to provide vaule in some way shape or form that could be reused by others</p>
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Service Now Section -->
 <h3 align="left" name="servicenow">Service Now Reasearch Contribution (February 2022 - April 2022)</h3>
 
 <p align="left">My second assignment was a spike for the firm to research Service Now as a possible solution for a management application. I was thrilled to be given the oppurtunity to learn new technology dove right in to trying design a prototype. I was faced with some personal health issues and had a big pause in my participation in this spike, but my team came to the conclusion the service now should not be used for the application, and Microsoft SharePoint was a better option for firm compatability reasons.</p>
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Engagement Feedback Section -->
 <h3 align="center" name="ebfTeam">Engagement Feedback Team (April 2022 - Current Date)</h3>
