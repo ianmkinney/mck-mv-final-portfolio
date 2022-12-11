@@ -1,16 +1,7 @@
 <a name="readme-top"></a>
-<!--
-*** Generated From Best-README-Template: See: https://github.com/othneildrew/Best-README-Template/pull/73 
 
-<br />
-  <h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
-  <p align="center">
-    On the job examples of ways I have contributed to the software development process at 
-    McKinsey & Co and what I learned during these experiences.
-  </p>
-</div>
-
+<h3 align="center">Durable Skills Demonstrated at McKinsey & Co. 2021-2022</h3>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -46,8 +37,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * 
 
-<p align="center">(<a href="#readme-top">During my time with the Firm, I leaned many skills and even earned certifications. My main focus was React.js and java spring api.
-I learned from senior developers and the Firm's learning resources, but also from multiverse's bootcamps. </a>)</p>
+<p align="center">During my time with the Firm, I leaned many skills and even earned certifications. My main focus was React.js and java spring api.
+I learned from senior developers and the Firm's learning resources, but also from multiverse's bootcamps.</p>
 
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
