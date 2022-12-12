@@ -53,16 +53,14 @@ I even was given the ability to dive in to some Machine Learning testing that wa
 
 <p align="left">The first thing required of me was a team onboarding. From here I had to attend required sessions provided by the firm to provide context on organizational policies and procedures on how we should handle our interactions with the Firm's codebases as to not violate any data regulations. We then had a training period where we were walked through best practices for cards in different areas of the codebase. This allowed me to gain an initial understanding of how the codebase was structured.</p>
 
-JF 2.1
-Knows organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of General Data Protection Regulation (GDPR) sensitive data.
+- JF 2.1: Knows organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and      treatment of General Data Protection Regulation (GDPR) sensitive data.
 
 <p align="left">My individual contributions included a randomization feature to reduce screen placement bias,and also major front-end changes and a custom component that was added to our shared code repository for the firm. These contributions show that 
 even at the beginning of my time at the firm, I was determined to provide vaule in some way shape or form that could be reused by others</p>
 
 <p align="left">During my time on the team, I was able to take part in our own sub pieces such as our testing applciation where we had to go through all stages of the software development lifecycle. From planning with stakeholders and then the team, to architecture rundowns with our lead Architect, to physically coding, designing, then deploying our product, we successfully pushed our product to the maintenance stage of development. </p>
 
-JF 1.1
-Knows all stages of the software development life cycle (what each stage contains, including the inputs and outputs
+- JF 1.1: Knows all stages of the software development life cycle (what each stage contains, including the inputs and outputs
 
 
 
